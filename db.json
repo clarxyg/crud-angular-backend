@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": "8258"
+    },
+    {
+      "id": 3,
+      "name": "Mouse sem fio ultra",
+      "price": "85.65"
+    },
+    {
+      "id": 4,
+      "name": "Headphone JBL",
+      "price": 389
+    },
+    {
+      "name": "Geladeira eletrolux",
+      "price": "9879",
+      "id": 5
+    }, 
+    {
+      "name": "Smartphone Samsung S75",
+      "price": "12399",
+      "id": 6
+    }
+  ]
+}
